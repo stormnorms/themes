@@ -1,0 +1,1249 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Backnow\n"
+"POT-Creation-Date: 2019-08-07 07:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://murshidalam.com/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"\n"
+"Language: "
+
+#: functions.php:20
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:130 lib/sub-header.php:67 
+#: lib/main-function/themeum-register.php:27
+msgid "Shop"
+msgstr ""
+
+#: functions.php:167 functions.php:198
+msgid "Select category icon"
+msgstr ""
+
+#: functions.php:181
+msgid "Add Category Icon"
+msgstr ""
+
+#: functions.php:184 functions.php:227 functions.php:230
+msgid "Category Color Option"
+msgstr ""
+
+#: functions.php:186
+msgid "Add Category Color"
+msgstr ""
+
+#: functions.php:189 functions.php:241
+msgid "Category Sub Title"
+msgstr ""
+
+#: functions.php:191 functions.php:244
+msgid "Add sub title"
+msgstr ""
+
+#: functions.php:282
+msgid "Please Sign In first"
+msgstr ""
+
+#. Name of the template
+msgid "404 Page Template"
+msgstr ""
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#: 404.php:15
+msgid "Oops! you’ve encountered an error!"
+msgstr ""
+
+#: 404.php:17
+msgid "HOME"
+msgstr ""
+
+#: 404.php:18
+msgid "Go Home"
+msgstr ""
+
+#. Name of the template
+msgid "Page With Right Sidebar"
+msgstr ""
+
+#: comments.php:13 
+#: wpcftemplate/woocommerce/basic/include/tabs/baker-list-tab.php:14
+msgid "Name"
+msgstr ""
+
+#: comments.php:14 header.php:300
+msgid "Email"
+msgstr ""
+
+#: comments.php:15
+msgid "Website url"
+msgstr ""
+
+#: comments.php:21
+msgid "Write a comment"
+msgstr ""
+
+#: comments.php:24
+msgid "Comment"
+msgstr ""
+
+#: comments.php:25
+msgid "Send Comment"
+msgstr ""
+
+#: comments.php:35
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:35
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:35
+msgid "Comment List"
+msgstr ""
+
+#: comments.php:54
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: woocommerce.php:51
+msgid "Featured Projects"
+msgstr ""
+
+#: woocommerce.php:52 woocommerce.php:160
+msgid "Discover what’s possible when a community creates together"
+msgstr ""
+
+#: woocommerce.php:91 woocommerce/content-product.php:77 
+#: wpcftemplate/woocommerce/basic/wpneo-listing.php:76 
+#: wpcftemplate/woocommerce/basic/include/fund-raised.php:85
+msgid "Raised"
+msgstr ""
+
+#: woocommerce.php:98 woocommerce/content-product.php:84 
+#: wpcftemplate/woocommerce/basic/wpneo-listing.php:83
+msgid "Goal"
+msgstr ""
+
+#: woocommerce.php:121 woocommerce/content-product.php:110 
+#: wpcftemplate/woocommerce/basic/wpneo-listing.php:109 
+#: wpcftemplate/woocommerce/basic/include/fund_raised_percent.php:35
+msgid "Funded"
+msgstr ""
+
+#: woocommerce.php:159
+msgid "Latest Projects"
+msgstr ""
+
+#. Name of the template
+msgid "Coming Soon"
+msgstr ""
+
+#: coming-soon.php:20
+msgid "Coming Soon."
+msgstr ""
+
+#: coming-soon.php:23
+msgid "We are come back soon"
+msgstr ""
+
+#: coming-soon.php:30
+msgid "Days"
+msgstr ""
+
+#: coming-soon.php:31
+msgid "Hours"
+msgstr ""
+
+#: coming-soon.php:32
+msgid "Minutes"
+msgstr ""
+
+#: coming-soon.php:33
+msgid "Seconds"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Fullwidth"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: header.php:54
+msgid "Explore"
+msgstr ""
+
+#: header.php:109 footer.php:95 footer.php:95
+msgid "Logo"
+msgstr ""
+
+#: header.php:145
+msgid "Menu"
+msgstr ""
+
+#: header.php:214
+msgid "Login/Sign Up"
+msgstr ""
+
+#: header.php:220
+msgid "Logout"
+msgstr ""
+
+#: header.php:244
+msgid "Search here..."
+msgstr ""
+
+#: header.php:261 header.php:308
+msgid "Sign In"
+msgstr ""
+
+#: header.php:262
+msgid "Don’t worry, we won’t spam you <br> or sell your information."
+msgstr ""
+
+#: header.php:267 header.php:299
+msgid "Username"
+msgstr ""
+
+#: header.php:268 header.php:301
+msgid "Password"
+msgstr ""
+
+#: header.php:269
+msgid "Remember me"
+msgstr ""
+
+#: header.php:270
+msgid "Log In"
+msgstr ""
+
+#: header.php:277
+msgid "Forgot password?"
+msgstr ""
+
+#: header.php:280 header.php:293
+msgid "Sign Up"
+msgstr ""
+
+#: header.php:294
+msgid "By signing up you agree to all the Terms and conditions."
+msgstr ""
+
+#. Name of the template
+msgid "Page With Left Sidebar"
+msgstr ""
+
+#: single.php:42 page.php:31 post-format/entry-content-blog.php:8
+msgid "Pages:"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage Default"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search . . . . ."
+msgstr ""
+
+#: woocommerce/content-product.php:40 
+#: wpcftemplate/woocommerce/basic/wpneo-listing.php:39
+msgid "Project You Love"
+msgstr ""
+
+#: lib/sub-header.php:97
+msgid "Search"
+msgstr ""
+
+#: lib/sub-header.php:125
+msgid "Event Details"
+msgstr ""
+
+#: lib/sub-header.php:127
+msgid "Albums"
+msgstr ""
+
+#: lib/sub-header.php:129
+msgid "Gallery"
+msgstr ""
+
+#: lib/sub-header.php:131
+msgid "Performer"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:334 
+#: lib/main-function/themeum-register.php:298
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:335 
+#: lib/main-function/themeum-register.php:299
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:337 
+#: lib/main-function/themeum-register.php:300
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:340 
+#: lib/main-function/themeum-register.php:301
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:392 
+#: lib/main-function/themeum-register.php:302
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:393 
+#: lib/class-tgm-plugin-activation.php:912 
+#: lib/class-tgm-plugin-activation.php:2618 
+#: lib/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:394 
+#: lib/class-tgm-plugin-activation.php:3244 
+#: lib/main-function/themeum-register.php:303
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:395 
+#: lib/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1019 
+#: lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1206 
+#: lib/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3594 
+#: lib/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3594 
+#: lib/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: post-format/content-gallery.php:14
+msgid "image"
+msgstr ""
+
+#: post-format/content-gallery.php:55 post-format/content.php:46 
+#: post-format/content-audio.php:34 post-format/content-video.php:40 
+#: post-format/content-quote.php:36 post-format/content-link.php:52 
+#: post-format/content-image.php:41
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: post-format/content-none.php:3
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: post-format/content-none.php:7
+msgid "Error Search"
+msgstr ""
+
+#: post-format/content-none.php:8
+msgid "Nothing Found"
+msgstr ""
+
+#: post-format/content-none.php:10
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: post-format/content-none.php:17
+msgid "Find Posts"
+msgstr ""
+
+#: post-format/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:78
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:96
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:102
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:119
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:59
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:91
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:137
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:137
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:137
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:142
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/single-product/review.php:28
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:37
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/review.php:46
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:47
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:45
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:18
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:19 lib/main-function/themeum-core.php:31
+msgid "PREV"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:19 lib/main-function/themeum-core.php:31
+msgid "NEXT"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:100
+msgid "sub item"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:115
+msgid "Move up"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:128
+msgid "Move down"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:130 
+#: lib/menu/admin-megamenu-walker.php:132
+msgid "Edit Menu Item"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:141
+msgid "URL"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:149
+msgid "Navigation Label"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:156
+msgid "Title Attribute"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:164
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:170
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:177
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:184
+msgid "Description"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:186
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:194
+msgid "Megamenu Settings"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:209
+msgid "Coulumn Number"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:223
+msgid "Move"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:224
+msgid "Up one"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:225
+msgid "Down one"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:228
+msgid "To the top"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:235
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:248
+msgid "Remove"
+msgstr ""
+
+#: lib/menu/admin-megamenu-walker.php:249
+msgid "Cancel"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:14
+msgid "Sidebar"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:16
+msgid "Widgets in this area will be shown on Sidebar."
+msgstr ""
+
+#: lib/main-function/themeum-register.php:29
+msgid "Widgets in this area will be shown on Shop Sidebar."
+msgstr ""
+
+#: lib/main-function/themeum-register.php:39
+msgid "Bottom 1"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:41
+msgid "Widgets in this area will be shown before Bottom 1."
+msgstr ""
+
+#: lib/main-function/themeum-register.php:50
+msgid "Bottom 2"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:52
+msgid "Widgets in this area will be shown before Bottom 2."
+msgstr ""
+
+#: lib/main-function/themeum-register.php:61
+msgid "Bottom 3"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:63
+msgid "Widgets in this area will be shown before Bottom 3."
+msgstr ""
+
+#: lib/main-function/themeum-register.php:72
+msgid "Bottom 4"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:74
+msgid "Widgets in this area will be shown before Bottom 4."
+msgstr ""
+
+#: lib/main-function/themeum-register.php:83
+msgid "Bottom 5"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:85
+msgid "Widgets in this area will be shown before Bottom 5."
+msgstr ""
+
+#: lib/main-function/themeum-register.php:106
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:174
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#: lib/main-function/themeum-register.php:213
+msgid "Themeum Core"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:232
+msgid "Contact Form 7"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:241
+msgid "Elementor"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:250
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:259
+msgid "WP Crowdfunding"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:268
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:277
+msgid "One CLick Demo importer"
+msgstr ""
+
+#: lib/main-function/themeum-register.php:304
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: lib/main-function/themeum-core.php:72
+msgid "Edit"
+msgstr ""
+
+#: lib/main-function/themeum-core.php:75
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/main-function/themeum-core.php:78
+msgid "Reply"
+msgstr ""
+
+#: lib/main-function/themeum-core.php:99
+msgid "Home"
+msgstr ""
+
+#: lib/main-function/themeum-core.php:110
+msgid "shop"
+msgstr ""
+
+#: lib/main-function/themeum-core.php:113
+msgid "Posts Tagged "
+msgstr ""
+
+#: lib/main-function/themeum-core.php:115 
+#: lib/main-function/themeum-core.php:117 
+#: lib/main-function/themeum-core.php:119
+msgid "Posts made in"
+msgstr ""
+
+#: lib/main-function/themeum-core.php:121
+msgid "Search results for"
+msgstr ""
+
+#: lib/main-function/themeum-core.php:148
+msgid "Posts by "
+msgstr ""
+
+#: lib/main-function/themeum-core.php:152
+msgid "Blog"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/wpneo-functions.php:13
+msgid "Campaigns by: "
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/pagination.php:19
+msgid "Prev"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/pagination.php:20
+msgid "Next"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/fund_raised_percent.php:9 
+#: wpcftemplate/woocommerce/basic/include/loop/fund_raised_percent.php:9
+msgid "Raised Percent"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/fund_raised_percent.php:27 
+#: wpcftemplate/woocommerce/basic/include/loop/time_remaining.php:15
+msgid "Days to go"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/fund-raised.php:31
+msgid "Backer"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/fund-raised.php:31
+msgid "Backers"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/fund-raised.php:43
+msgid "Love it"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/fund-raised.php:61
+msgid "Reviews"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/fund-raised.php:92
+msgid " Goal"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/fund-campaign-btn.php:7
+msgid "Back This Project"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:22
+msgid "Make a pledge without a reward"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:24
+msgid "Minimum amount is "
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:25
+msgid "Maximum amount is "
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:42
+msgid "Rewards"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:98
+msgid "backnows"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/rewards-sidebar-form.php:107
+msgid "Estimated Delivery: "
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/story-tab.php:89
+msgid "About the campaign creator"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/story-tab.php:116
+msgid " Campaigns"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/story-tab.php:116
+msgid " Loved campaigns"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/story-tab.php:122
+msgid "About"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/story-tab.php:129
+msgid "Portfolio"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/story-tab.php:135
+msgid "Contact Info"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/story-tab.php:137
+msgid "Email: "
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/story-tab.php:140
+msgid "Phone: "
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/story-tab.php:143
+msgid "Fax: "
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/story-tab.php:146
+msgid "Website: "
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/story-tab.php:149
+msgid "Contact Me"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/story-tab.php:154
+msgid "Social Link"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/baker-list-tab.php:15
+msgid "Donate Amount"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/baker-list-tab.php:16
+msgid "Date"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/tabs/baker-list-tab.php:36 
+#: wpcftemplate/woocommerce/basic/include/tabs/baker-list-tab.php:40
+msgid "Anonymous"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/loop/funding_goal.php:11
+msgid "Funding Goal"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/loop/no-campaigns-found.php:7
+msgid "No campaigns found here."
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/loop/time_remaining.php:5
+msgid "0"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/loop/fund_raised.php:14
+msgid "Fund Raised"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/loop/thumbnail.php:11
+msgid "View Campaign"
+msgstr ""
+
+#: wpcftemplate/woocommerce/basic/include/loop/author.php:7
+msgid "by"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Backnow"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Premium WordPress Crowdfunding Theme."
+msgstr ""
+
+#. URI of the theme
+msgid "https://demo.themeum.com/wordpress/backnow/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themeum"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.themeum.com/"
+msgstr ""
